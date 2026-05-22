@@ -130,15 +130,12 @@ Production-grade autonomous orchestration infrastructure integrating:
 
 ---
 
-## GitHub Statistics
+## Engineering Highlights
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristophMaciel&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristophMaciel&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
-
-</p>
+- Building autonomous AI orchestration systems with real production workflows
+- Designing memory-aware agents with structured tool-calling logic
+- Integrating workflow automation, databases, APIs, scheduling, and messaging systems
+- Focused on reliability, state management, and production-grade automation
 
 ---
 
