@@ -1,6 +1,10 @@
 <h1 align="center">Christoph Maciel</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Autonomous+AI+Systems+Engineer;Workflow+Orchestration+Specialist;Multi-Agent+Infrastructure+Designer;Production-Grade+Automation+Architect" />
+</p>
+
+<p align="center">
 Autonomous AI Systems Engineer • Workflow Orchestration • Multi-Agent Infrastructure
 </p>
 
