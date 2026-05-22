@@ -95,3 +95,38 @@ autonomous-ai-orchestration-system
 - Persistent Context Systems
 - Real-Time Orchestration
 - Automation Reliability
+
+---
+
+## Featured Project
+
+### Autonomous AI Orchestration System
+
+Production-grade autonomous orchestration infrastructure integrating:
+
+- Conversational AI agents
+- Workflow automation
+- Persistent memory systems
+- Scheduling intelligence
+- WhatsApp communication flows
+- AI tool-calling architecture
+- Real-time availability orchestration
+- Google Calendar synchronization
+- Multi-service automation pipelines
+
+#### Core Stack
+
+- n8n
+- OpenAI
+- Redis
+- Supabase
+- PostgreSQL
+- Evolution API
+- Google Calendar API
+
+#### Repository
+
+👉 https://github.com/ChristophMaciel/autonomous-ai-orchestration-system
+
+---
+
