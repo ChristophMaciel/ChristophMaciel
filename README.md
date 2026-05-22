@@ -1,6 +1,12 @@
-# Christoph Maciel
+<h1 align="center">Christoph Maciel</h1>
 
-Autonomous AI Systems Engineer focused on workflow orchestration, memory-aware agents, infrastructure automation, and real-world AI systems.
+<p align="center">
+Autonomous AI Systems Engineer • Workflow Orchestration • Multi-Agent Infrastructure
+</p>
+
+<p align="center">
+Building production-grade autonomous systems with memory persistence, scheduling intelligence, AI orchestration, and real-time automation.
+</p>
 
 ---
 
