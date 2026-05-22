@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChristophMaciel&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/ChristophMaciel?label=Followers&style=flat" />
+</p>
+
+<p align="center">
 Autonomous AI Systems Engineer • Workflow Orchestration • Multi-Agent Infrastructure
 </p>
 
