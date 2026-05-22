@@ -10,6 +10,24 @@ Building production-grade autonomous systems with memory persistence, scheduling
 
 ---
 
+## Technology Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-Memory_System-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-Production_DB-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Calendar-Scheduling-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Automation-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+---
+
+
 ## Core Focus Areas
 
 - Autonomous AI Agents
